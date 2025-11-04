@@ -1,0 +1,19 @@
+{
+  "name": "last_back-end",
+  "version": "1.0.0",
+  "description": "final backend with ani",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "ani",
+    "chai"
+  ],
+  "author": "Animesh Khanra",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
